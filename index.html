@@ -37,24 +37,36 @@
 </header>
 
 <section class="hero">
-  <h1 data-i18n="hero.title">The Yellow Pages for Nail Salons</h1>
-  <p data-i18n="hero.sub">Find nail technician jobs, hire staff, buy or sell a salon — all in one place.</p>
-  <div class="search-panel">
-    <div class="search-field">
-      <span>🔍</span>
-      <input type="text" id="searchName" data-i18n-ph="search.namePh" placeholder="Business name or phone number">
+  <div class="hero-inner">
+    <div class="hero-copy">
+      <h1 data-i18n="hero.title">The Yellow Pages for Nail Salons</h1>
+      <p data-i18n="hero.sub">Find nail technician jobs, hire staff, buy or sell a salon — all in one place.</p>
+      <div class="search-panel">
+        <div class="search-field">
+          <span>🔍</span>
+          <input type="text" id="searchName" data-i18n-ph="search.namePh" placeholder="Business name or phone number">
+        </div>
+        <div class="search-field">
+          <span>📍</span>
+          <input type="text" id="searchLoc" data-i18n-ph="search.locPh" placeholder="City, State, or ZIP code">
+        </div>
+        <button class="btn btn-primary" id="searchBtn" data-i18n="search.btn">Search</button>
+      </div>
+      <div class="chip-row">
+        <button class="chip" data-type="jobs" data-i18n="chip.jobs">Nail Tech Jobs</button>
+        <button class="chip" data-type="forsale" data-i18n="chip.forsale">Salons For Sale</button>
+        <button class="chip" data-type="seeking" data-i18n="chip.seeking">Techs Seeking Work</button>
+        <button class="chip" data-type="directory" data-i18n="chip.directory">Browse Directory</button>
+      </div>
     </div>
-    <div class="search-field">
-      <span>📍</span>
-      <input type="text" id="searchLoc" data-i18n-ph="search.locPh" placeholder="City, State, or ZIP code">
+
+    <div class="hero-visual">
+      <img class="hero-illustration" src="assets/img/nailhop-hero.png" alt="A group of nail technicians giving a client a manicure at a salon table" loading="eager">
+      <div class="hero-badge">
+        <span class="badge-icon">💅</span>
+        <span class="badge-text"><b>3,000+</b><span>Active technicians on NailConnect</span></span>
+      </div>
     </div>
-    <button class="btn btn-primary" id="searchBtn" data-i18n="search.btn">Search</button>
-  </div>
-  <div class="chip-row">
-    <button class="chip" data-type="jobs" data-i18n="chip.jobs">Nail Tech Jobs</button>
-    <button class="chip" data-type="forsale" data-i18n="chip.forsale">Salons For Sale</button>
-    <button class="chip" data-type="seeking" data-i18n="chip.seeking">Techs Seeking Work</button>
-    <button class="chip" data-type="directory" data-i18n="chip.directory">Browse Directory</button>
   </div>
 </section>
 
