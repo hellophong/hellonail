@@ -15,8 +15,8 @@ const I18N = {
     "nav.signup": "Sign Up",
     "nav.dashboard": "My Dashboard",
 
-    "hero.title": "The Yellow Pages for Nail Salons",
-    "hero.sub": "Find nail technician jobs, hire staff, buy or sell a salon — all in one place.",
+    "hero.title": "Nail Tech Jobs & Salons For Sale — All in One Place",
+    "hero.sub": "Search thousands of nail salon jobs, technician profiles, and businesses for sale across the U.S.",
     "search.namePh": "Business name or phone number",
     "search.locPh": "City, State, or ZIP code",
     "search.btn": "Search",
@@ -165,8 +165,8 @@ const I18N = {
     "nav.signup": "Đăng Ký",
     "nav.dashboard": "Trang Quản Lý",
 
-    "hero.title": "Niên Giám Của Ngành Nail",
-    "hero.sub": "Tìm việc làm thợ nail, tuyển thợ, mua bán tiệm — tất cả tại một nơi.",
+    "hero.title": "Việc Làm Thợ Nail & Tiệm Cần Sang — Tất Cả Tại Một Nơi",
+    "hero.sub": "Tìm hàng ngàn tin tuyển dụng thợ nail, hồ sơ thợ, và tiệm cần sang trên khắp nước Mỹ.",
     "search.namePh": "Tên tiệm hoặc số điện thoại",
     "search.locPh": "Thành phố, Tiểu bang, hoặc Mã ZIP",
     "search.btn": "Tìm Kiếm",
