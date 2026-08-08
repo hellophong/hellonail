@@ -1,5 +1,5 @@
 /* ============================================================
-   hellonail — bilingual (EN / VI) text dictionary
+   HelloNail — bilingual (EN / VI) text dictionary
    Usage: <span data-i18n="nav.jobs"></span>
           <input data-i18n-ph="search.namePh">
    ============================================================ */
@@ -39,7 +39,7 @@ const I18N = {
     "badge.seeking": "Seeking Work",
     "badge.featured": "Featured",
 
-    "footer.about": "hellonail is a nationwide job board and business directory built for the nail salon industry — owners, technicians, and buyers all in one place.",
+    "footer.about": "HelloNail is a nationwide job board and business directory built for the nail salon industry — owners, technicians, and buyers all in one place.",
     "footer.company": "Company",
     "footer.aboutus": "About Us",
     "footer.contact": "Contact",
@@ -189,7 +189,7 @@ const I18N = {
     "badge.seeking": "Tìm Việc",
     "badge.featured": "Nổi Bật",
 
-    "footer.about": "hellonail là trang việc làm và danh bạ doanh nghiệp toàn quốc dành riêng cho ngành nail — chủ tiệm, thợ nail, và người mua tiệm đều có mặt tại đây.",
+    "footer.about": "HelloNail là trang việc làm và danh bạ doanh nghiệp toàn quốc dành riêng cho ngành nail — chủ tiệm, thợ nail, và người mua tiệm đều có mặt tại đây.",
     "footer.company": "Công Ty",
     "footer.aboutus": "Giới Thiệu",
     "footer.contact": "Liên Hệ",

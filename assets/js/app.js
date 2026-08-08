@@ -1,5 +1,5 @@
 /* ============================================================
-   hellonail — shared interactivity + sample data
+   HelloNail — shared interactivity + sample data
    ============================================================ */
 
 /* ---- Mobile nav / sidebar toggles (shared across pages) ---- */
