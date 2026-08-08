@@ -1,5 +1,5 @@
 /* ============================================================
-   NailConnect USA — shared interactivity + sample data
+   hellonail — shared interactivity + sample data
    ============================================================ */
 
 /* ---- Mobile nav / sidebar toggles (shared across pages) ---- */
